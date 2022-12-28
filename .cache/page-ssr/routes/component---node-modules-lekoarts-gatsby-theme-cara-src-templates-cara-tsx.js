@@ -5169,7 +5169,7 @@ function about_createMdxContent(props) {
     p: "p",
     a: "a"
   }, (0,lib/* useMDXComponents */.ah)(), props.components);
-  return /*#__PURE__*/index_js_default().createElement((index_js_default()).Fragment, null, /*#__PURE__*/index_js_default().createElement(_components.h2, null, "About"), "\n", /*#__PURE__*/index_js_default().createElement(_components.blockquote, null, "\n", /*#__PURE__*/index_js_default().createElement(_components.p, null, "I am a final-year computer science engineering student at amity university, Noida, India. Thus far I have completed 7 semesters of my under-graduation whereby i have studied Data Structures, Database Management Systems, Software Engineering and specialised at a base level in Data Science.\n", /*#__PURE__*/index_js_default().createElement(_components.a, {
+  return /*#__PURE__*/index_js_default().createElement((index_js_default()).Fragment, null, /*#__PURE__*/index_js_default().createElement(_components.h2, null, "About"), "\n", /*#__PURE__*/index_js_default().createElement(_components.blockquote, null, "\n", /*#__PURE__*/index_js_default().createElement(_components.p, null, "I am a final-year computer science engineering student at Amity University, Noida, India. Thus far I have completed 7 semesters of my under-graduation whereby i have studied Data Structures, Database Management Systems, Software Engineering and specialised at a intermediate level in Data Science.\n", /*#__PURE__*/index_js_default().createElement(_components.a, {
     href: "https://drive.google.com/file/d/18pYJgEaoXKUGteKrtef9IJgV_wqKVxoA/view?usp=sharing"
   }, "Resume")), "\n"));
 }
